@@ -1,2 +1,0 @@
-# Qudwa Project
-
